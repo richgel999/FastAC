@@ -5,7 +5,7 @@ This repo is a clone of Amir Said's FastAC library. I studied this library while
 ## License
 
 From the code:
-
+```
 // The only purpose of this program is to demonstrate the basic principles   -
 // of arithmetic coding. It is provided as is, without any express or        -
 // implied warranty, without even the warranty of fitness for any particular -
@@ -16,6 +16,7 @@ From the code:
 //                                                                           -
 // Copyright (c) 2004 by Amir Said (said@ieee.org) &                         -
 //                       William A. Pearlman (pearlw@ecse.rpi.edu)   
+```
 
 ## References:
 
