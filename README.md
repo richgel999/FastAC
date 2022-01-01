@@ -2,7 +2,7 @@
 
 This repo is a clone of Amir Said's FastAC library. I studied this library while creating the arithmetic coding routines in the LZHAM codec. It's a very educational, high quality library. Unfortunately, it virtually disappeared on the web years ago so I'm putting a copy on github here.
 
-His Huffman coding example is [here](https://github.com/richgel999/fasthf).
+His Huffman coding example (FastHF) is [here](https://github.com/richgel999/fasthf).
 
 ## License
 
