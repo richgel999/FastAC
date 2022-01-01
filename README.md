@@ -1,4 +1,4 @@
-# FastAC - Amir Said's Arithmetic and Huffman coding library, example code, and documentation
+# FastAC - Amir Said's Arithmetic library, example code, and documentation
 
 This repo is a clone of Amir Said's FastAC library. I studied this library while creating the arithmetic coding routines in the LZHAM codec. It's a very educational, high quality library. Unfortunately, it virtually disappeared on the web years ago so I'm putting a copy on github here.
 
