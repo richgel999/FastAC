@@ -22,9 +22,9 @@ From the code:
 
 ## References:
 
-1. Amir Said, “Arithmetic Coding,” in Lossless Compression Handbook, (K. Sayood, Ed.), Academic Press, San Diego, CA, 2003.
+1. Amir Said, _Arithmetic Coding_, in _Lossless Compression Handbook_, (K. Sayood, Ed.), Academic Press, San Diego, CA, 2003.
 
-2. Amir Said, Introduction to Arithmetic Coding Theory and Practice, Hewlett-Packard Laboratories Report, HPL–2004–76, Palo Alto, CA, April 2004 (http://www.hpl.hp.com/techreports/).
+2. Amir Said, _Introduction to Arithmetic Coding Theory and Practice_, Hewlett-Packard Laboratories Report, HPL–2004–76, Palo Alto, CA, April 2004 (http://www.hpl.hp.com/techreports/).
 
-3. Amir Said, Comparative Analysis of Arithmetic Coding Computational Complexity,
+3. Amir Said, _Comparative Analysis of Arithmetic Coding Computational Complexity_,
 Hewlett-Packard Laboratories Report.
